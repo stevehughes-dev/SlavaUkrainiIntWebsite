@@ -131,6 +131,8 @@ dist
 
 # working directory #
 working/
+# notes directory #
+notes/
 
 # Sass #
 ###########
